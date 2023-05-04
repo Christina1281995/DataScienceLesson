@@ -1,6 +1,6 @@
-## Geo-AI Couse: Lesson on Sentiment Analysis
+## Geo-AI Couse: Lecture on Sentiment Analysis
 
-Part 1 of 2 for a lecture in a Geo-AI course series. For part 2 see: 
+Part 1 of 2 for a lecture in a Geo-AI course series. This course was designed for use in the ["The Littlest JupyterHub"](https://tljh.jupyter.org/en/latest/). For environment requirements see:  For part 2 of this lecture see: 
 
 Topics covered in this lesson: 
 
